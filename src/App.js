@@ -17,9 +17,10 @@ const StyledHeader = styled.div`
     text-align: center;
     display: block;
     margin:auto;
-    font-size: 100px
+    font-size: 25px
     position: relative;
-  
+    width: 70%;
+    height: 60px;
   }
 `
 const App = () => {
